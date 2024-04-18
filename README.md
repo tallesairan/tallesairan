@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a php programmer and I'm studying python for AI ⚡<br> 
+PHP Backend Developer and AI enthusiast⚡<br> 
 
 
 ## 🌐 Socials:
